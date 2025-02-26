@@ -15,3 +15,6 @@ Estou sempre aprendendo e explorando novas ferramentas para me tornar um desenvo
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
