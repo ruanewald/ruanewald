@@ -2,15 +2,16 @@
 
 Bem-vindos ao meu repositório! Meu nome é Ruan e sou estudante de Análise e Desenvolvimento de Sistemas pois adoro tecnologia! Neste repositório, você encontrará alguns dos meus estudos e experimentos em programação, que refletem meu aprendizado e crescimento na área. 🚀
 
-## Tecnologias
+## Tecnologias:
 - Python 🐍
 - JavaScript 🌟
 - E mais! 🤖
 
-## Sobre Mim
+## Sobre Mim:
 Estou sempre aprendendo e explorando novas ferramentas para me tornar um desenvolvedor melhor. Fique à vontade para explorar meus projetos e me dar feedback! 💡
+Sempre em busca de oportunidade de crescimento!
 
-## Meu linkedin
+## Meu linkedin:
 [Conecte-se a mim!](https://www.linkedin.com/in/ruan-augusto-ewald-b78a791b4/)
 
 
