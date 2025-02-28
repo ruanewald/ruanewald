@@ -10,6 +10,10 @@ Bem-vindos ao meu repositório! Meu nome é Ruan e sou estudante de Análise e D
 ## Sobre Mim
 Estou sempre aprendendo e explorando novas ferramentas para me tornar um desenvolvedor melhor. Fique à vontade para explorar meus projetos e me dar feedback! 💡
 
+## Meu linkedin
+[Conecte-se a mim!](https://www.linkedin.com/in/ruan-augusto-ewald-b78a791b4/)
+
+
 ## Minhas Estatísticas no GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ruanewald&show_icons=true&theme=dracula&hide_border=true)
 
