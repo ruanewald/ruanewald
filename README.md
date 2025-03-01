@@ -15,8 +15,6 @@ Estou sempre aprendendo e explorando novas ferramentas para me tornar um desenvo
 
 ## Meu Email:
 ruan.devv@gmail.com
-[Clique aqui para copiar meu e-mail](https://ruanewald.github.io/ruanewald/)
-
 
 ## Minhas Estatísticas no GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ruanewald&show_icons=true&theme=dracula&hide_border=true)
