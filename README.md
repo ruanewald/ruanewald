@@ -13,6 +13,9 @@ Estou sempre aprendendo e explorando novas ferramentas para me tornar um desenvo
 ## Meu linkedin:
 [Conecte-se a mim!](https://www.linkedin.com/in/ruan-augusto-ewald-b78a791b4/)
 
+##Meu Email:
+ruan.devv@gmail.com
+
 
 ## Minhas Estatísticas no GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ruanewald&show_icons=true&theme=dracula&hide_border=true)
