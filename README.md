@@ -13,9 +13,9 @@ Estou sempre aprendendo e explorando novas ferramentas para me tornar um desenvo
 ## Meu linkedin:
 [Conecte-se a mim!](https://www.linkedin.com/in/ruan-augusto-ewald-b78a791b4/)
 
-##Meu Email:
+## Meu Email:
 ruan.devv@gmail.com
-[![E-mail](https://img.shields.io/badge/E--mail-ruan.devv@gmail.com-blue)](mailto:ruan.devv@gmail.com)
+[Clique aqui para copiar meu e-mail](https://ruanewald.github.io/ruanewald/)
 
 
 ## Minhas Estatísticas no GitHub
