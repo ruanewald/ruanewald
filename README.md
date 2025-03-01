@@ -15,6 +15,7 @@ Estou sempre aprendendo e explorando novas ferramentas para me tornar um desenvo
 
 ##Meu Email:
 ruan.devv@gmail.com
+[![E-mail](https://img.shields.io/badge/E--mail-ruan.devv@gmail.com-blue)](mailto:ruan.devv@gmail.com)
 
 
 ## Minhas Estatísticas no GitHub
